@@ -1,0 +1,13 @@
+/home/yugo/Документы/universite/cyber-securite/lab5/bin/Debug/netcoreapp3.1/lab5
+/home/yugo/Документы/universite/cyber-securite/lab5/bin/Debug/netcoreapp3.1/lab5.deps.json
+/home/yugo/Документы/universite/cyber-securite/lab5/bin/Debug/netcoreapp3.1/lab5.runtimeconfig.json
+/home/yugo/Документы/universite/cyber-securite/lab5/bin/Debug/netcoreapp3.1/lab5.runtimeconfig.dev.json
+/home/yugo/Документы/universite/cyber-securite/lab5/bin/Debug/netcoreapp3.1/lab5.dll
+/home/yugo/Документы/universite/cyber-securite/lab5/bin/Debug/netcoreapp3.1/lab5.pdb
+/home/yugo/Документы/universite/cyber-securite/lab5/obj/Debug/netcoreapp3.1/lab5.csprojAssemblyReference.cache
+/home/yugo/Документы/universite/cyber-securite/lab5/obj/Debug/netcoreapp3.1/lab5.csproj.CoreCompileInputs.cache
+/home/yugo/Документы/universite/cyber-securite/lab5/obj/Debug/netcoreapp3.1/lab5.AssemblyInfoInputs.cache
+/home/yugo/Документы/universite/cyber-securite/lab5/obj/Debug/netcoreapp3.1/lab5.AssemblyInfo.cs
+/home/yugo/Документы/universite/cyber-securite/lab5/obj/Debug/netcoreapp3.1/lab5.dll
+/home/yugo/Документы/universite/cyber-securite/lab5/obj/Debug/netcoreapp3.1/lab5.pdb
+/home/yugo/Документы/universite/cyber-securite/lab5/obj/Debug/netcoreapp3.1/lab5.genruntimeconfig.cache
